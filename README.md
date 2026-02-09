@@ -1,5 +1,5 @@
 # Intro
-I am Universal82, or Moss Mayfly, if you prefer my real name. I do program commissions! [Link to the target section](#moss-comissions) I prefer working in Rust mostly, but I have history in C++ and Python, though it's been some time since I've worked with them.
+I am Universal82, or Moss Mayfly, if you prefer my real name. I do program [commissions](#moss-comissions)! I prefer working in Rust mostly, but I have history in C++ and Python, though it's been some time since I've worked with them.
 
 # Working On
 I'm working on a few projects right now:
