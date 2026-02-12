@@ -5,7 +5,14 @@ I am Universal82, or Moss Mayfly, if you prefer my real name. I do program [comm
 I'm working on a few projects right now:
 |Item|Brief Summary|
 |----|-------------|
-|[RSMM](https://github.com/Universal82/rustic-mod-manager) | It's a mod manager for Skyrim, intended for Linux, written in Rust. |
+|[RSMM](https://github.com/Universal82/rustic-mod-manager) | A mod manager for Skyrim, intended for Linux, written in Rust. |
+
+# Completed
+These are some of my favourite completed projects:
+|Item|Brief Summary|
+|----|-------------|
+|[votv-image](https://github.com/Universal82/votv-image) | A simple, terminal-based image resizer that supports configuration options. |
+|[mossDiscordUpdater](https://github.com/Universal82/mossDiscordUpdater) | A script I made to update Discord on Arch Linux, since they seem to struggle keeping it up to date. |
 
 # Moss' Commissions
 Looking to comission a program? Contact me at mossmayfly@proton.me, please use the subject "COMMISSION" so I can find it in a search easily.
